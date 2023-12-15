@@ -8,3 +8,7 @@ Problem Statement: Rising gun violence in The US and why it is increasingly asso
 - The results demonstrate the value of data analysis and visualization techniques and may impact public policy or prevention efforts.
 
 
+
+
+
+https://medium.com/@cbhagwat_26146/rise-of-gun-violence-and-its-trends-in-usa-892eb70ecd12
