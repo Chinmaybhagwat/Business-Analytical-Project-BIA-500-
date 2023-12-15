@@ -7,6 +7,10 @@ Problem Statement: Rising gun violence in The US and why it is increasingly asso
 - The project will begin with data preparation and cleaning to uncover patterns and relationships in the data. Next, statistical testing, data visualization, and machine learning techniques will be used.
 - The results demonstrate the value of data analysis and visualization techniques and may impact public policy or prevention efforts.
 
+## Team:
+Chinmay Bhagwat
+Krutin Dalwala
+Jayanth
 
 
 [Click here to read the full blog of the project](https://medium.com/@cbhagwat_26146/rise-of-gun-violence-and-its-trends-in-usa-892eb70ecd12)
