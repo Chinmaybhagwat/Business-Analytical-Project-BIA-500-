@@ -8,8 +8,8 @@ Problem Statement: Rising gun violence in The US and why it is increasingly asso
 - The results demonstrate the value of data analysis and visualization techniques and may impact public policy or prevention efforts.
 
 ## Team:
-Chinmay Bhagwat
-Krutin Dalwala
+Chinmay Bhagwat,
+Krutin Dalwala,
 Jayanth
 
 
